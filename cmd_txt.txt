@@ -1,0 +1,6 @@
+
+cd C:\Users\GHNMKL\Documents\Project_I-master\Project_I1 
+cd C:\Users\GHNMKL\Documents\Project_I-master\Project_I2 
+cd C:\Users\GHNMKL\Documents\Project_I-master\Project_I3
+cd C:\Users\GHNMKL\Documents\Project_I-master\Project_I4
+python icmr.py
